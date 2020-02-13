@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Welcome aux Bahamas!!"
+date:   2020-02-13 14:13:50 +0100
+categories: jekyll update
+name : author 5
+---
+### plages de sable fin
+
+![My helpful screenshot](https://voyages.michelin.fr/sites/default/files/styles/poi_slideshow/public/images/travel_guide/voyage_media-NX-13420/bahamas.jpg)
+
+### toutes les activités
+[liens](https://youtu.be/IbspnxsndUk)
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/

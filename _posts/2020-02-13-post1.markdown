@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Welcome aux Maldives!"
+date:   2020-02-13 14:13:50 +0100
+categories: jekyll update
+name : author 1
+---
+
+![My helpful screenshot](/assets/maldives.jpeg)
+
+[lien vers Wikipédia](https://fr.wikipedia.org/wiki/Maldives)
+
+*Cela doit vous donner envie de vous baigner....*
+
+*blablabla*
+
+__comment partir ?__
+
+- [Routard](https://www.routard.com/guide/code_dest/maldives.htm)
+- [Evaneos](https://www.evaneos.fr/maldives/)
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
